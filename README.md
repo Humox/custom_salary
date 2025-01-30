@@ -17,4 +17,4 @@ Este script está diseñado para **servidores FiveM** que utilizan **ESX**. Perm
 
 ### **Requisitos**:
 - Servidor FiveM con **ESX** correctamente instalado.
-- Tener configurado un archivo `config.lua` donde puedes añadir los trabajos, rangos y salarios.
+
