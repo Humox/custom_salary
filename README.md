@@ -1,4 +1,4 @@
-README - Script de Pagos para Trabajos (ESX)
+Script de Pagos para Trabajos (ESX)
 Este es un script diseñado para ser utilizado en servidores de FiveM con el framework ESX. El script permite realizar pagos periódicos a los jugadores de acuerdo con su trabajo y rango. Además, incluye un comando para administradores que les permite forzar el pago a los jugadores.
 
 Descripción
